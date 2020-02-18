@@ -1,0 +1,9 @@
+C:\Users\KPhantastic\source\repos\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.exe.config
+C:\Users\KPhantastic\source\repos\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.exe
+C:\Users\KPhantastic\source\repos\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.pdb
+C:\Users\KPhantastic\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csprojAssemblyReference.cache
+C:\Users\KPhantastic\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.Form1.resources
+C:\Users\KPhantastic\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.Properties.Resources.resources
+C:\Users\KPhantastic\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.GenerateResource.cache
+C:\Users\KPhantastic\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.exe
+C:\Users\KPhantastic\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.pdb
